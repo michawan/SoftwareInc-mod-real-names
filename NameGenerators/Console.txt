@@ -8,7 +8,6 @@ Amiga CD32
 Amiga CDTV
 Astrocade
 Atari 2600
-Atari 5200
 Atari 7800
 C64 Games System
 CD-i
@@ -26,7 +25,6 @@ Game & Watch
 Game Boy
 Game Boy Advance
 Game Boy Color
-Game Boy Pocket
 Game Gear
 GameCube
 Gizmondo
@@ -57,8 +55,6 @@ PSP
 PSX
 ROG Ally
 Saturn
-Sega 32X
-Sega CD
 SG-1000
 Shield TV
 Sinclair ZX Spectrum Vega
