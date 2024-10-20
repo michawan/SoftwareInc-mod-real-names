@@ -3,17 +3,13 @@
 -base(stop)
 3M
 Abercrombie & Fitch
-Accenture
 Adidas
 Air France
-Alcatel
 Aldi
 Alfa Romeo
 Allianz SE
-Amazon
 American Airlines
 American Express
-Annapurna Interactive
 ArcelorMittal
 AstraZeneca
 Avis
@@ -33,7 +29,6 @@ British Airways
 Burger King
 BuzzFeed
 Canal+
-Canon
 Capital One
 Carrefour
 Caterpillar
@@ -51,28 +46,25 @@ Daimler AG
 Danone
 Dassault Aviation
 Decathlon
+Deliveroo
 Deloitte
 Deutsche Bank
 Devon Energy
 DHL Group
 Domino's Pizza
+DoorDash
 E.Leclerc
 Eaton Corporation
 eBay
-Eidos Interactive
 Eiffage
 Electricité de France
-Emerson Electric
 Engie
-Ericsson
 Exxon Mobil
 Ferrari
 Ferrero
 Fiat
 Foot Locker
 Ford Motor Company
-Fujitsu
-Gamestop
 General Dynamics
 General Electric
 General Motors
@@ -84,13 +76,11 @@ H&M
 Halliburton
 Harley Davidson
 Heineken
-Hitachi
 Home Depot
 Honda
 HSBC Holdings
 Hugo Boss
 Hyundai Motor
-Id Software
 IKEA
 Intermarché
 John Deere
@@ -105,8 +95,6 @@ Kraft Heinz
 L'Oréal
 La Poste
 Lamborghini
-Lenovo
-LG Electronics
 Lockheed Martin
 Lowe's
 Lufthansa
@@ -120,29 +108,22 @@ Mercedes-Benz Group AG
 Metro AG
 Michelin
 Mitsubishi
-Mojang Studios
 Monster Beverage Corporation
-Motorola
 NBC
 Nestlé
 Netflix
 Nike
 Nikon
 Nissan
-Nokia
 Oaktree Capital Management
 Office Depot
 Orange
 Pacific Construction Group
-Panasonic
-Paradox Interactive
 Paramount Pictures
-Paypal
 PepsiCo
 Pernod Ricard
 Petronas
 Pfizer
-Philips
 Pioneer Natural Resources
 Pizza Hut
 Plymouth Rock Assurance
@@ -164,7 +145,6 @@ Schlumberger
 Schneider Electric
 Sempra Energy
 Shell
-Siemens
 SNCF Group
 Société Générale
 Sodebo
@@ -172,7 +152,6 @@ Starbucks
 Starwood Hotels & Resorts
 Stellantis
 Subway
-Swiss
 Taco Bell
 Target
 Tesla
@@ -183,9 +162,7 @@ The Walt Disney Company
 Tokyo Electric Power
 TotalEnergies
 Toyota Motor Corporation
-Treyarch
 Tyson Foods
-Uber
 Uber Eats
 Unilever
 Uniqlo
@@ -195,15 +172,12 @@ Veolia Environnement S.A.
 Vinci
 Virgin Group
 Visa
-Vodafone
 Volkswagen AG
 Walmart
-Warner Bros. Entertainment Inc.
+Warner Bros. Entertainment
 Watson Pharmaceuticals
 Wells Fargo
-Western Digital
-Whirlpool Corporation
-Xerox
+Whirlpool
 Yamaha
 Zara
 Zoom

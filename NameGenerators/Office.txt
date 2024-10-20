@@ -138,7 +138,6 @@ Xero
 Yammer
 Zendesk
 Zoho Office
-Zoom
 -end(stop)
 365
 Business

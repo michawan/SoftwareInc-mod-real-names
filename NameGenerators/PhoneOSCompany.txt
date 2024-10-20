@@ -4,7 +4,6 @@ Acer
 Alcatel
 BenQ Mobile
 BlackBerry
-Ericsson
 Fairphone
 Gigaset
 Grundig Mobile
@@ -21,7 +20,7 @@ Intex Technologies
 Kyocera
 Lava International
 Lenovo
-LG
+LG Electronics
 Medion
 Microsoft Mobile
 Mobicel
