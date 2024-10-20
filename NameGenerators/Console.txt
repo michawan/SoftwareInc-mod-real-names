@@ -1,15 +1,18 @@
 [REPLACE]
 -start(base)
 -base(stop)
-3DO Interactive Multiplayer
+3DO
 3DS
+Adventure Vision
 Amiga 500
 Amiga CD32
 Amiga CDTV
+Arcadia 2001
 Astrocade
 Atari 2600
 Atari 7800
 C64 Games System
+Cassette Vision
 CD-i
 Channel F
 ColecoVision
@@ -17,9 +20,6 @@ CPC 464
 CreatiVision
 Dreamcast
 DS
-Arcadia 2001
-Entex Adventure Vision
-Epoch Cassette Vision
 FM Towns Marty
 Game & Watch
 Game Boy
@@ -36,19 +36,18 @@ Intellivision
 Jaguar
 Loopy
 Lynx
-Magnavox Odyssey
 Master System
 Mega CD
-Mega Drive
+Mega Drive / Genesis
 N-Gage
 N64
 Neo Geo
 Neo Geo CD
-Neo Geo Pocket
 Neo Geo Pocket Color
-NES
+NES / Famicom
+Odyssey
 Ouya
-PC-Engine
+PC-Engine / TurboGrafx
 PC-FX
 PlayStation
 PSP
@@ -57,8 +56,7 @@ ROG Ally
 Saturn
 SG-1000
 Shield TV
-Sinclair ZX Spectrum Vega
-SNES
+SNES / Super Famicom
 Socrates
 Steam Deck
 Steam Machine
@@ -74,3 +72,4 @@ Xbox
 Xbox 360
 Xbox One
 Xbox Series
+ZX Spectrum
