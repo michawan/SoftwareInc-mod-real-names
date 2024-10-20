@@ -1,3 +1,4 @@
+```
 [h1] What does this mod do? [/h1]
 
 This mod aims to replace the names of the following categories with real name equivalent:
@@ -59,3 +60,4 @@ Due to the original design of the base game's randomness, the following compromi
 [list]
     [*]Additionally, when a product shares its name with its parent company (looking at you, antivirus companies), I want to avoid having products of that namesake company created by another entity. To achieve this, I removed certain company names from some lists (e.g., Norton as an antivirus exists but is not listed as a company).
 [/list]
+```
