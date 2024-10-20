@@ -60,6 +60,7 @@ Satisfactory
 Sid Meier's Civilization
 SimCity
 Space Engineers
+Space Invaders
 Spore
 Star Citizen
 Star Fox
@@ -69,6 +70,7 @@ Supermarket Simulator
 Surviving Mars
 Tabletop Simulator
 TCG Card Shop Simulator
+Tetris
 The Guild
 The Sims
 Theme Hospital

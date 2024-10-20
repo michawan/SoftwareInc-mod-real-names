@@ -52,6 +52,7 @@ Oddworld: Abe's Oddysee
 Okami
 Ori and the Blind Forest
 Outer Wilds
+Pac-Man
 Portal
 Prince of Persia
 Rayman
@@ -73,7 +74,7 @@ Star Wars Jedi Knigt
 Star Wars: Bounty Hunter
 Streets of Rage
 Subnautica
-Super Mario
+Super Mario Bros.
 Syberia
 Syphon Filter
 Teenage Mutant Ninja Turtles
