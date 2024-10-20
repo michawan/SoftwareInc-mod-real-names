@@ -44,3 +44,5 @@ Due to the original design of the base game's randomness, the following compromi
 - I did not alter the number of company generators or the number of software titles developed per company from the base game. As a result, the game does not use all the names in the lists for every playthrough; it will only select names when creating a software title or a company.
 - To reduce my cognitive dissonance, some products that include the name of their parent company have been modified (e.g., "Adobe Photoshop" is simply "Photoshop" as it would be weird to have Microsoft create "Adobe Photoshop" when a company named "Adobe" already exists in the same playthrough).
 - Additionally, when a product shares its name with its parent company (looking at you, antivirus companies), I want to avoid having products of that namesake company created by another entity. To achieve this, I removed certain company names from some lists (e.g., Norton as an antivirus exists but is not listed as a company).
+
+
