@@ -1,0 +1,122 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Affinity Designer
+Affinity Photo
+Art Rage
+Artboard
+ArtFlow
+Artweaver
+Artweaver Free
+Aseprite
+Autodesk Graphic
+Autodesk SketchBook
+BeFunky
+Boxy SVG
+Canva
+Chalk
+Chalk Paint
+Chasys Draw IES
+CinePaint
+Clip Studio Action
+Clip Studio EX
+Clip Studio Paint
+Comic Life
+Corel AfterShot Pro
+Corel Painter
+Corel PaintShop Pro
+CorelDRAW
+CorelDRAW Essentials
+CorelDRAW Technical Suite
+Daz Studio
+DeepArt
+Design Wizard
+DesignEvo
+Designio
+Draw.io
+DrawPad
+DrawPad Graphic Editor
+Drawpile
+Drawtify
+Easy Comic
+EZ Paint
+EZ Paint Pro
+Fatpaint
+Figma
+FireAlpaca
+Fireworks
+FlowScape
+Fotor
+FotoSketcher
+Fresco
+Fresco
+GIMP
+Graphic Design Studio
+GraphicsGale
+Gravit Designer
+Illustrator
+Illustrator CC
+Illustrator Draw
+ImageMagick
+Infinite Design
+Infinite Painter
+Inkscape
+Krita
+Krita Gemini
+LazPaint
+Lunacy
+LunaPic
+Magic Poser
+MakeHuman
+MakePrintable
+Manga Creator
+Manga Studio
+Manga Studio Ex
+MediBang Paint
+MotionArtist
+MS Paint
+MyPaint
+NCH Software
+OpenToonz
+Paint Tool SAI
+Paint.NET
+Paintstorm Studio
+Pencil
+Pencil2D
+Pencil2D Animation
+PhotoLine
+Photopea
+Photoscape
+Photoscape X
+Photoshop
+Photoshop Express
+PictBear
+Pictogon
+Pixelied
+Pixelmator
+Pixia
+Pixlr
+Pro Motion NG
+Procreate
+Procreate Pocket
+RealWorld Paint
+Rebelle
+RPG Maker
+Scribbles
+Scribus
+Sketch
+Sketchable
+SketchBook
+Sketchpad
+Snagit
+Snappa
+Sumo Paint
+Tayasui Sketches
+Toon Boom Harmony
+Toon Boom Storyboard Pro
+Vecteezy Editor
+Vector Magic
+Vectr
+Visme
+Wondershare Filmora
+Zoner Photo Studio

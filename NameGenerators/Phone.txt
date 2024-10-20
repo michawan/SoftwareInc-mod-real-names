@@ -1,0 +1,61 @@
+[REPLACE]
+-start(base1, base2)
+-base1(stop)
+Aquos Crystal
+Ascend
+Black Shark
+Blade
+Centro
+Communicator
+Curve
+Defy
+Droid
+Idol
+KeyOne
+Lumia
+Magic
+N-Gage
+Newton
+Nexus
+OneTouch
+Optimus G
+Passport
+Pearl
+PenPoint
+Pilot 1000
+Pixi
+Poco
+PureView
+Razr
+Reno 10x Zoom
+ROG Phone
+ROKR
+Sensation
+StarTAC
+ThunderBolt
+Treo
+View
+Wildfire
+Wing
+Xperia
+XpressMusic
+Zenfone
+-base2(end)
+Desire
+Galaxy
+iPhone
+Mate
+Mi
+Moto
+One
+Pixel
+-end(stop)
+Fold
+Lite
+Note
+Plus
+Pro
+S
+SE
+Ultra
+X

@@ -1,0 +1,88 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Arx Fatalis
+Baldur's Gate
+Bloodborne
+Bravely Default
+Chrono Trigger
+Conan Exiles
+Cyberpunk 2077
+Dark age of Camelot
+Dark Messiah of Might & Magic
+Dark Souls
+Darkest Dungeon
+Darksiders
+Demon Souls
+Deus Ex
+Diablo
+Divinity: Original Sin
+Dragon Age
+Dragon Quest
+Dragon's Dogma
+Drakensang
+Druidstone: The Secret of the Menhir Forest
+Dungeon Siege
+Elden Ring
+EverQuest
+EverQuest
+Fable
+Fallout
+Final Fantasy
+Fire Emblem
+Fire Emblem
+Gauntlet
+Golden Sun
+Gothic
+Grandia
+Grim Dawn
+Guild Wars
+Hades
+Icewind Dale
+Jade Empire
+Kingdom Come: Deliverance
+Kingdom Hearts
+Kingdoms of Amalur: Reckoning
+Legend of Grimrock
+Mass Effect
+Monster Hunter
+Mount & Blade
+Neverwinter Nights
+Nier: Automata
+Nioh
+Octopath Traveler
+Path of Exile
+Pathfinder
+Persona
+Phantasy Star
+Pillars of Eternity
+Planescape: Torment
+Pokemon
+Risen
+Runescape
+Sacred
+Secret of Mana
+Shadowrun
+Shin Megami Tensei
+Star Ocean
+Star Wars Galaxies
+Star Wars: Knights of the Old Republic
+Starfield
+Suikoden
+The Bard's Tale
+The Elder Scrolls
+The Fall of the Dungeon Guardians
+The Outer Worlds
+The Witcher
+Titan Quest
+Torchlight
+Torment: Tides of Numenera
+Tyranny
+Ultima
+Valkyria Chronicles
+Vampire: The Masquerade
+Warhammer 40,000: Rogue Trader
+Wasteland
+Wizardry
+Wizards & Warriors
+Xenogears

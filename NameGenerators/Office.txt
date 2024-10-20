@@ -1,0 +1,150 @@
+[REPLACE]
+-start(base)
+-base(end, stop, stop)
+Access
+Acrobat Reader
+Airtable
+Alfresco
+Asana
+Base
+Base CRM
+Basecamp
+Bitrix24
+Bluebeam Revu
+Calc
+Calendly
+Canva for Work
+Capsule CRM
+Ciel
+ClearBooks
+ClickMeeting
+ClickUp
+Coda
+Cognos Analytics
+Confluence
+Corel WordPerfect
+Daylite
+Docs
+Document editor
+Docusign
+DocuWare
+Dropbox
+Dynamics
+Eloqua
+Epicor ERP
+Everhour
+Evernote
+Excel
+Expensify
+Feedly
+FileMaker
+FlipHTML5
+Foxit Reader
+FreshBooks
+Freshdesk
+Gantt
+Gliffy
+Greenshot
+HomeBank
+Hootsuite
+Impress
+Intercom
+Invoice Ninja
+Invoicely
+iWork
+Jamboard
+Jibble
+JIRA
+Jive
+Joplin
+KashFlow
+Keynote
+KPI Fire
+LibreOffice
+Lotus Notes
+Lucidpress
+Mailchimp
+Math
+Mavenlink
+Monday
+Moodle
+MySQL
+Nimble
+Notepad
+Notepad++
+Notion
+Nuclino
+Numbers
+Obsidian
+Odoo
+OneDrive
+OneNote
+OpenERP
+OpenOffice
+Oracle CRM
+Outlook
+Pages
+PandaDoc
+Paymo
+PDF Architect
+PDFelement
+PipeDrive
+PowerPoint
+Prezi
+Process Street
+Project
+Publisher
+QuickBase
+QuickBooks
+QuickBooks Online
+Quip
+Salesflare
+Scoro
+SendGrid
+Sendinblue
+SharePoint
+Sheets
+Slack
+Slides
+Smallpdf
+SmartRecruiters
+Smartsheet
+Spreadsheet editor
+SumatraPDF
+SurveyMonkey
+Synology Drive
+Tableau
+Tally
+Teams
+TeamViewer
+Thunderbird
+Toggl
+Trello
+TurboTax
+Typeform
+Veeva CRM
+Visio
+Wave
+WebEx
+Whiteboard
+Wix
+Word
+WordPad
+Workday
+Wrike
+Writer
+Wunderlist
+Xero
+Yammer
+Zendesk
+Zoho Office
+Zoom
+-end(stop)
+365
+Business
+Cloud
+Community Edition
+Enterprise
+Family
+Plus
+Pro

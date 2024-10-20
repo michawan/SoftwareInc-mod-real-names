@@ -1,0 +1,86 @@
+[REPLACE]
+-start(base)
+-base(stop)
+1080° Snowboarding
+Amped: Freestyle Snowboarding
+Baseball Stars
+Blood Bowl
+Brawlout
+Colin McRae Rally
+Crash Team Racing
+Cricket
+Dead or Alive
+Def Jam: Fight for NY
+Destruction Derby
+Dirt Rally
+Disc Jam
+Dragon Ball FighterZ
+ESPN NFL
+Excitebike
+F-Zero
+F1
+FIFA
+FIFA Street
+Football Manager
+Formula One
+Forza Motorsport
+Golf Story
+Gran Turismo
+GRID Autosport
+Guilty Gear
+Injustice: Gods Among Us
+Jonah Lomu Rugby
+Killer Instinct
+King of Fighters
+Madden NFL
+Mario Kart
+Mario Party
+Mortal Kombat
+MotoGP
+MVP Baseball
+NBA 2K
+NBA Jam
+NBA Street
+Need for Speed
+Outlaw Golf
+Pool Nation
+Pro Evolution Soccer
+Punch-Out!!
+Ready 2 Rumble Boxing
+Redout
+Riders Republic
+Ridge Racer
+Rocket League
+Roller Champions
+Rugby
+Rugby Challenge
+Skate
+SoulCalibur
+Speedball
+SSX
+Star Wars Episode I: Racer
+Steep
+Street Fighter
+Super Smash Bros.
+Super Tennis
+Surf World Series
+Table Tennis
+Tekken
+Tiger Woods PGA Tour
+Tony Hawk's Pro Skater
+Tour de France
+Track & Field
+TrackMania
+Trials
+V-Rally
+Virtua Fighter
+Virtua Striker
+Virtua Tennis
+VR Soccer
+WarioWare
+Wave Race
+Windjammers
+Wipeout
+World Championship Rugby
+WRC
+WWE 2K

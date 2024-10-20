@@ -1,0 +1,84 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Acer
+Adobe
+ADP
+Alibaba
+Amazon
+AMD
+American Megatrends
+Ansys
+AOL
+Apollo
+Apple
+Atlassian
+Atos
+Broadcom
+Canon
+Canonical
+Capgemini
+CGI
+Cisco
+Compaq
+Computacenter
+Convex
+Dassault Systèmes
+Dell Technologies
+DigitalOcean
+Electronic Data Systems
+EMC Corporation
+Facebook
+Fiserv
+Genesys
+Google
+Green Hills Software
+HashiCorp
+Hewlett Packard Enterprise
+Hewlett-Packard
+Hubspot
+IBM
+Infosys
+Intel
+Intuit
+Juniper Networks
+Lite-On
+Logitech
+Meta
+Micro-Star International
+Microsoft
+MontaVista
+Mozilla Corporation
+NetApp
+Novell
+Nutanix
+Olivetti
+Opera
+Oracle
+OVH
+Palantir
+Paypal
+Psion
+Qualcomm
+Salesforce
+SAP
+Seagate Technology
+ServiceNow
+Silicon Graphics International
+SolarWinds
+Sopra Steria
+SS&C Technologies
+Sun Microsystems
+Synopsys
+Tata Consultancy Services
+Tech Mahindra
+Tencent
+Texas Instruments
+Uber
+Unisys
+Verizon
+Vivendi
+VMware
+Western Digital
+Xerox
+Yahoo

@@ -1,0 +1,45 @@
+[REPLACE]
+-start(base)
+-base(stop)
+App Galery
+App Store
+AppSumo
+Aptoide
+AWS Marketplace
+Azure Marketplace
+Battle.net
+Best Buy
+CNET Download
+Epic Games Store
+eShop
+F-Droid
+FileHippo
+Galaxy Store
+Gamestop PC Downloads
+GCP Marketplace
+GitHub
+GitLab
+GNOME Software
+GOG
+Gumroad
+Humble Bundle
+Itch.io
+MediaFire
+Megaupload
+MS Store
+Newegg
+Origin
+PCWorld Software Store
+Play Store
+RapidShare
+Red Hat Marketplace
+Setapp
+Shopify
+Snap Store
+Softonic
+Software Center
+SourceForge
+Steam
+Synaptic
+Uplay
+WeGame

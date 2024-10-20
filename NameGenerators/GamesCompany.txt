@@ -1,0 +1,80 @@
+-start(base)
+-base(stop)
+2K Games
+3D Realms
+Annapurna Interactive
+Arkane Studios
+Asobo
+Atlus
+Bandai Namco
+Bethesda Game Studios
+Bioware
+Blizzard Entertainment
+Bungie
+Capcom
+CD Projekt
+Codemasters
+Coffee Stain Studios
+Creative Assembly
+Crystal Dynamics
+Crytek
+Daedalic Entertainment
+Devolver Digital
+DICE
+Dotemu
+Eidos Interactive
+Electronic Arts
+Epic Games
+Eugen Systems
+Factor 5
+Firaxis Games
+Focus Home Interactive
+From Software
+Frontier Developments
+Game Freak
+Giants Software
+GSC Game World
+Guerrilla Games
+Id Software
+Infinity Ward
+Infogrames
+Insomniac Games
+inXile entertainment
+Koei Tecmo
+Konami
+Krafton
+Larian Studios
+Lionhead Studios
+LucasArts
+Maxis
+Mojang Studios
+Naughty Dog
+NCSOFT
+NetherRealm Studios
+Obsidian Entertainment
+Pandemic Studios
+Paradox Interactive
+Piranha Bytes
+PlatinumGames
+Rare
+Remedy Entertainment
+Respawn Entertainment
+Retro Studios
+Riot Games
+Rockstar Games
+Rocksteady Studios
+Saber Interactive
+Santa Monica Studio
+Sierra Online
+Sledgehammer Games
+SquareSoft
+Supercell
+Supergiant Games
+Take-Two Interactive
+Team Ninja
+Telltale Games
+THQ
+Treyarch
+Ubisoft
+Warner Bros. Interactive Entertainment
+Zenimax Online

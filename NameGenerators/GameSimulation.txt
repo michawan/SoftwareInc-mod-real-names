@@ -1,0 +1,89 @@
+[REPLACE]
+-start(base)
+-base(stop)
+911 Operator
+Ace Combat
+Against the Storm
+Airline Tycoon
+Animal Crossing
+Balatro
+Caesar
+Capitalism
+Car Mechanic Simulator
+Cities in Motion
+Cities Skyline
+Cities XL
+Contraband Police
+Cook, Serve, Delicious!
+Cookie Clicker
+Democracy 
+Don't Starve
+Dwarf Fortress
+Dyson Sphere Program
+Elite Dangerous
+Euro Truck Simulator
+EVE Online
+Factorio
+Farming Simulator
+Fishkeeper
+Flight Simulator
+Frostpunk
+FTL: Faster Than Light
+Game Dev Tycoon
+Garry's Mod
+Goat Simulator
+Harvest Moon
+House Flipper
+Industry Giant
+Jurassic WOrld Evolution
+Kerbal Space Program
+Minecraft
+Mini Motorways
+My Time at Portia
+Papers, Please
+Patrician
+PC Building Simulator
+Pharaoh
+Pizza Tycoon
+Plague Inc.
+Planet Coaster
+Planet Zoo
+Populous
+PowerWash Simulator
+Prison Architect
+Railroad Tycoon
+Railway Empire
+Rimworld
+Roblox
+RollerCoaster Tycoon
+Satisfactory
+Sid Meier's Civilization
+SimCity
+Space Engineers
+Spore
+Star Citizen
+Star Fox
+Star Wars: Rogue Squadron
+Stardew Valley
+Supermarket Simulator
+Surviving Mars
+Tabletop Simulator
+TCG Card Shop Simulator
+The Guild
+The Sims
+Theme Hospital
+Timberborn
+Tiny Glade
+Totally Accurate Battle Simulator
+Townscraper
+Train Simulator
+Transport & Fever
+Transport Tycoon
+Tropico
+Two Point Campus
+Two Point Hospital
+Two Point Museum
+Untitled Goose Game
+Victoria
+Workers and Resources: Soviet Republic
+Zoo Tycoon

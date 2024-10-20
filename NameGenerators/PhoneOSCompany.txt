@@ -1,0 +1,52 @@
+-start(base)
+-base(stop)
+Acer
+Alcatel
+BenQ Mobile
+BlackBerry
+Ericsson
+Fairphone
+Gigaset
+Grundig Mobile
+Haier
+Hisense
+Hitachi
+HMD Global
+Honor
+HTC
+Huawei
+iDroid USA
+Infinix
+Intex Technologies
+Kyocera
+Lava International
+Lenovo
+LG
+Medion
+Microsoft Mobile
+Mobicel
+Motorola
+Nokia
+Nothing
+OnePlus
+Oppo
+Palm
+Poco
+QMobile
+Realme
+Redmi
+SAGEM
+Samsung
+Sharp
+Siemens
+Sony Ericsson
+Symphony
+T-Mobile
+TCL
+Tecno Mobile
+Toshiba
+Vivo
+Vodafone
+Wiko
+Xiaomi
+ZTE

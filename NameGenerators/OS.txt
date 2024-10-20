@@ -1,0 +1,84 @@
+[REPLACE]
+-start(base)
+-base(stop)
+A/UX
+AlmaLinux
+Alpine Linux
+Arch Linux
+BSD
+CentOS
+Chrome OS
+CP/M
+CP/M
+Debian
+Domain/OS
+DR-DOS
+DragonFly BSD
+eComStation
+Fedora
+FreeBSD
+FreeDOS
+fSense
+Gentoo Linux
+HP-UX
+IRIX
+Kali Linux
+Linux From Scratch
+Linux Mint
+Linux Mint Debian Edition
+Lisa OS
+Lubuntu
+Mac OS X
+Mac OS X Server
+macOS
+Mandriva Linux
+MiniOS
+Minix
+MkLinux
+MobiLinux
+MorphOS
+MS-DOS
+MSX-DOS
+NetBSD
+NetWare
+NeXTSTEP
+Open Solaris
+OpenBSD
+OpenMediaVault
+OpenWrt
+OS/2
+OS/400
+PC-DOS
+PicoBSD
+Pop!_OS
+Raspbian
+ReactOS
+Red Hat Enterprise Linux
+Rhapsody
+RISC OS
+Rocky Linux
+SCO OpenServer
+SerenityOS
+Slackware
+Solaris
+SteamOS
+SUSE Linux Enterprise
+SymbOS
+Tails
+TempleOS
+TinyOS
+TrueNAS
+TrueOS
+Ubuntu
+UNIX
+VAX/VMS
+VisiOn
+VM/CMS
+VMX
+Windows
+Windows Server
+Xubuntu
+z/OS
+Zenwalk GNU/Linux
+Zeta OS
+Zorin OS

@@ -1,0 +1,25 @@
+-start(base,base2,base2,pre)
+-pre(base,base2,base2)
+The 
+-base(base2,base3)
+Super
+Mega
+Epic
+Big
+Majestic
+Extreme
+Massive
+-base2(base3)
+Jumbo
+Extra
+Bonus
+Overhaul
+Deluxe
+Pixel
+Gamer
+Fresh
+-base3(stop)
+ Pack
+ Expansion
+ Add-on
+ DLC

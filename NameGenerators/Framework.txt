@@ -1,0 +1,120 @@
+[REPLACE]
+-start(base)
+-base(stop)
+.NET
+AdonisJS
+Aeron
+Angular
+AngularJS
+Anvil
+Apache MXNet
+Apache Struts
+ASP.NET
+Aurelia
+Backbone.js
+Cairo
+CakePHP
+Capacitor
+Catalyst
+Chakra UI
+Cocoa
+CodeIgniter
+ColdFusion
+Core Data
+Creation Engine
+CryEngine
+Cypress
+Dart
+Decima Engine
+Django
+Dojo
+Electron
+Ember.js
+Entity Framework
+Express
+Express.js
+Ext JS
+FastAPI
+Fastify
+Flask
+Foundation
+Fox Engine
+Frostbite
+FuelPHP
+Garden
+Gatsby
+Godot
+Grails
+Hapi.js
+Havok
+Hibernate
+Infer.NET
+Ionic
+JavaFX
+Javalin
+JHipster
+jQuery
+jQuery Mobile
+KnockoutJS
+Koa.js
+Kohana
+Laravel
+Lift
+Lumen
+Luminous Engine
+Marionette.js
+Maya
+MeteorJS
+Mobile Angular UI
+Mojolicious
+Monorail
+NativeScript
+Netty
+Next.js
+Node.js
+Nuxt.js
+OpenFrameworks
+OpenUI5
+Peewee
+Phalcon
+Phoenix
+PhysX
+Play
+Play Framework
+PureMVC
+Pyramid
+PyTorch
+Qt
+Quasar
+Qwik
+Rage
+React
+React Native
+Reactor
+Ruby on Rails
+RxJava
+RxJS
+Sequelize
+Sinatra
+Source Engine
+Spark
+Spring
+Stencil
+Stimulus
+Strapi
+Svelte
+Symfony
+Tapestry
+Tauri
+TensorFlow
+TurboGears
+Twig
+Unreal Engine
+Vaadin
+Vapor
+Vue.js
+Wicket
+Xamarin
+Yii
+Zend Framework
+Zikula

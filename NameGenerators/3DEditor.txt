@@ -1,0 +1,128 @@
+[REPLACE]
+-start(base)
+-base(stop)
+3D Coat
+3D Slash
+3DCrafter
+Agisoft Metashape
+Alias Design
+Alias PowerShape
+Alias SpeedForm
+Alias Surface
+Anim8or
+Animatron
+Archicad
+Archipelis Designer
+Art of Illusion
+Artlantis
+AutoCAD
+Autodesk 3ds Max
+Autodesk FormIt
+Autodesk Fusion 360
+Autodesk Inventor
+Autodesk Maya
+Autodesk Mudbox
+Blender
+Blophome
+BRL-CAD
+Bryce
+Carrara
+CATIA
+Cheese
+Cheetah3D
+Chocolat
+Cinema 4D
+CinePaint
+Clara.io
+Corona Renderer
+Daz 3D
+DesignSpark Mechanical
+Dimension
+Dust3D
+E-on Vue
+EmberGen
+FaceGen Modeller
+Fluid Designer
+FluidRay
+FreeCAD
+GeoMagic Design
+Geomagic Sculpt
+Geomagic Wrap
+Geomodeller3D
+Goxel
+Grasshopper 3D
+Hexagon
+HitFilm Pro
+Houdini
+Houdini Apprentice
+Insight3D
+Instant Terra
+IRONCAD
+JSPaint
+K-3D
+KeyCreator
+KeyShot
+LightWave 3D
+Lumion
+MakeHuman
+MakePrintable
+MatterControl
+MeshLab
+MeshMagic 3D
+Meshmixer
+Metasequoia
+Mudbox Free
+Netfabb
+nTopology
+Onshape
+Onshape Free
+OpenCascade
+OpenSCAD
+pCon.planner
+Pixlr
+Plastic SCM
+Plasticity
+Polybrush
+Poser
+PowerAnimator
+Pro/ENGINEER
+Quixel Mixer
+RealityCapture
+Reallusion iClone
+Realsoft 3D
+ReCap Pro
+Remo 3D
+RenderDoc
+RenderMan
+Rhinoceros
+Rocket 3F
+Rokoko Studio
+SculptGL
+Sculptris
+SelfCAD
+SelfCAD
+Silo 3D
+Simlab Composer
+Sketchfab
+SketchUp
+Solid Edge
+SolidWorks
+Source Filmmaker
+Substance Designer
+Substance Painter
+Surfcam
+Sweet Home 3D
+Terragen
+Teya Conceptor
+TinkerCAD
+TopMod
+TrueSpace
+Twinmotion
+V-Ray
+Vectary
+ViaCAD
+Voxel Builder
+VoxelMax
+Wings 3D
+ZBrush
+Zmodeler

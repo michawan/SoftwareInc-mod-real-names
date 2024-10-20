@@ -1,0 +1,26 @@
+-start(base)
+-base(stop)
+Amstrad
+Asus
+Atari
+Bandai
+Casio
+Coleco
+Commodore
+Fairchild
+Fisher-Pricene
+Fujitsu
+Game Park
+Magnavox
+Mattel
+NEC
+Nintendo
+Nvidia
+Panasonic
+Philips
+Sega
+SNK
+Sony
+Tiger Electronics
+Valve
+VTech

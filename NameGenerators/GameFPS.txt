@@ -1,0 +1,92 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Aliens vs. Predator
+Aliens: Colonial Marines
+Aliens: Fireteam Elite
+Apex Legends
+Arma: Armed Assault
+Armored Core
+Battlefield
+Battlefield: Bad Company
+Bioshock
+Borderlands
+Brothers in Arms
+Call of Duty
+Call of Duty: Black Ops
+Call of Duty: Modern Warfare
+Call of Juarez
+Counter-strike
+Crysis
+DayZ
+Dead Effect
+Deathloop
+Deep Rock Galactic
+Destiny
+Die Hard: Vendetta
+Doom
+Duke Nukem
+Dying Light
+Escape from Tarkov
+F.E.A.R.
+Far Cry
+Fortnite
+Gears of War
+Goldeneye 007
+Half-Life
+Halo
+Haze
+Hell Let Loose
+Helldivers
+Homefront
+Insurgency
+Killing Floor
+Killzone
+Left 4 Dead
+Medal of honor
+Metro 2033
+Metroid Prime
+Overwatch
+Painkiller
+Payday
+Perfect Dark
+PlanetSide
+PlayerUnknown's Battlegrounds
+Postal
+Quake
+Rage
+Ready or Not
+Red Faction
+Red Orchestra
+Resistance: Fall of Man
+Rising Storm
+Robocop: Rogue City
+S.T.A.L.K.E.R
+Serious Sam
+Shadow Warrior
+Sniper Elite
+Soldier of Fortune
+Space Hulk: Deathwing
+Squad
+Star Wars Battlefront
+Star Wars Republic Commando
+Superhot
+SWAT
+System Shock
+Team Fortress
+The Division
+The House of the Dead
+Time Crisis
+TimeSplitters
+Titanfall
+Tom Clancy's Ghost Recon
+Tom Clancy's Rainbox Six
+Turok
+Unreal Tournament
+Valorant
+Warframe
+Warhammer 40,000: Boltgun
+Warhammer 40,000: Darktide
+Warhammer: Vermintide
+Wolfenstein
+XIII

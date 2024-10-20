@@ -1,0 +1,64 @@
+[REPLACE]
+-start(base, base2)
+-base(next, end, stop)
+Acronis
+Avast
+AVG
+Avira
+Bitdefender
+BullGuard
+Clam
+Comodo
+CrowdSec
+CrowdStrike
+Dr.Web
+Eset
+F-secure
+FortiClient
+Harmony
+Kaspersky
+Malwarebytes
+McAfee
+Norton
+Panda
+Quick Heal
+Sophos 
+Surfshark
+Total
+TotalAV
+Trend Micro
+VIPRE
+Webroot
+ZoneAlarm
+-base2(stop)
+1Password
+Adblock
+AdGuard
+Bitwarden
+Dashlane
+Keepass
+KeepassXC
+LastPass
+NordPass
+Password Safe
+Proton Pass
+SecureSafe
+uBlock Origin
+Vaultwarden
+-next(end, stop)
+360
+Advanced
+Cloud
+Endpoint
+Smart
+Total
+-end(stop)
+Antivirus
+Defender
+Internet Security
+Platform
+Protection
+Scan
+Security
+Threat Detection
+Threat Protection

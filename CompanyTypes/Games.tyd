@@ -1,0 +1,15 @@
+CompanyType
+	{
+	Specialization		Games
+	PerYear				0.2
+	Min					3
+	Max					6
+	NameGen				GamesCompany
+	Types
+		[
+			{
+			Software	Game
+			Chance		0.5
+			}
+		]
+	}

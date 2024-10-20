@@ -1,0 +1,89 @@
+[REPLACE]
+-start(base)
+-base(stop)
+A plague Tale
+Aladdin
+Alien Isolation
+Another World
+Assassin's Creed
+Banjo-Kazooie
+Batman: Arkham City
+Beyond Good and Evil
+Castlevania
+Celeste
+Conker's Bad Fur Day
+Contra
+Cool Spot
+Crash Bandicoot
+Day of the Tentacle
+Dead Space
+Devil May Cry
+Dino Crisis
+Disco Elysium
+Dishonored
+Donkey Kong Country
+Earthworm Jim
+Ecco the Dolphin
+Ghost of Tsushima
+God of War
+Grand Theft Auto
+Hitman
+Hollow Knights
+Horizon Zero Dawn
+Ico
+Kid Icarus
+King's Quest
+L.A. Noire
+Life is Strange
+Luigi's Mansion
+Max Payne
+Medievil
+Mega Man
+Metal Gear Solid
+Metal Slug
+Metroid
+Mirror's Edge
+Mission Impossible
+Monkey Island
+Myst
+Ninja Gaiden
+No Man's Sky
+Oddworld: Abe's Oddysee
+Okami
+Ori and the Blind Forest
+Outer Wilds
+Portal
+Prince of Persia
+Rayman
+Red Dead Redemption
+Resident Evil
+Runaway
+Second Sight
+Sekiro
+Shadow of the Colossus
+Shadowgate
+Silent Hill
+Sleeping Dogs
+Sonic the Hedgehog
+Soul Reaver: Legacy of Kain
+Spider-Man
+Spyro the Dragon
+Star Fox Adventures
+Star Wars Jedi Knigt
+Star Wars: Bounty Hunter
+Streets of Rage
+Subnautica
+Super Mario
+Syberia
+Syphon Filter
+Teenage Mutant Ninja Turtles
+The Dig
+The Last of Us
+The Legend of Zelda
+The Lion King
+The Stanley Parable
+Tom Clancy's Splinter Cell
+Tomb Raider
+Uncharted
+Warhammer 40,000: Space Marine
+Yakuza

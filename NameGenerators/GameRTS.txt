@@ -1,0 +1,74 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Age of Empires
+Age of Mythology
+Aliens: Dark Descent
+Anno
+Ashes of the Singularity: Escalation
+Banished
+Battlefleet Gothic: Armada
+Blitzkrieg 
+Call to Arms
+Castle Story
+Codename: Panzers
+Command & Conquer
+Commandos: Behind Enemy Lines
+Company of Heroes
+Cossacks
+Crusader Kings
+DEFCON
+Desperados
+Diplomacy is Not an Option
+Door Kickers
+Dota
+Dune
+Dune: Spice Wars
+Dungeon Keeper
+Europa Universalis
+Halo Wars
+Hearts of Iron
+Homeworld
+ICBM
+Iron Harvest
+Kingdom Under Fire
+Knights and Merchants
+League of Legends
+Lord of the Rings: Battle for Middle-earth
+Men of War
+Northgard
+Offworld Trading Company
+Overlord
+Pikmin
+Planetary Annihilation
+Regiments
+Rise of Nations
+Seven Kingdoms
+Sins of a Solar Empire
+Spellforce
+Star Wars: Empire at War
+Star Wars: Galactic Battlegrounds
+Starcraft
+Starship Troopers: Terran Command
+Steel Division
+Stellaris
+Stronghold
+Sudden Strike
+Supreme Commander
+The Settlers
+They Are Billions
+Total War: Attila
+Total War: Empire
+Total War: Medieval
+Total War: Napoleon
+Total War: Pharaoh
+Total War: Rome
+Total War: Shogun
+Total War: Three Kingdoms
+Total War: Warhammer
+Ultimate General
+Warcraft
+Wargame
+Warhammer 40,000: Dawn of War
+Warno
+World in Conflict
