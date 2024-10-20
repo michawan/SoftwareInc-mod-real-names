@@ -16,7 +16,7 @@ This mod aims to replace the names of the following categories with real name eq
     - Phone
     - Console
 - Company
-- Contracts/Deals Company
+- Contracts Company
 - Digital Distribution Platforms
 
 ## Considerations with companies names
@@ -29,14 +29,14 @@ In the base game, there is only one name generator for all companies, meaning th
 4. Antivirus Company Names
 5. Computer OS Company, Office Software Company, and Creative Tools Company (Audio tool, 2D Editor, and 3D Editor) Names
 
-To reflect that most companies use subcontractors for some tasks, some of the companies names in the dedicated lists can also appear in the Contracts/Deals Company names list.
+To reflect that most companies use subcontractors for some tasks, some of the companies names in the dedicated lists can also appear in the Contracts Company names list. This is in addition to the fact
 
 Also, each game category is filled only with games that match the game type (e.g., StarCraft is always an RTS)
 
 ## Compromises and restrictions of the mod
 
 Due to the original design of the base game's randomness, the following compromises and restrictions apply to this mod:
-It is not possible to link a company to the software names it produces (e.g., it's not feasible to enforce that Nintendo will create the GameCube, and not the PlayStation Vita).
+- It is not possible to link a company to the software names it produces (e.g., it's not feasible to enforce that Nintendo will create the GameCube, and not the PlayStation Vita).
 - Linking a company to a specific logo is not possible, or if it is, it exceeds my current understanding.
 - To avoid using the same company name for two different entities (e.g., a Nintendo company as a Console OS company and another as a Game company), I had to make some concessions and select only one company list for certain companies. This means Nintendo will always be a Console OS company and will never be a Game company.
 - Some major companies use subsidiaries for different markets, so in certain instances, I treated them as separate entities (e.g., Microsoft and Microsoft Mobile are two distinct companies in this mod).
