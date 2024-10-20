@@ -29,8 +29,6 @@ In the base game, there is only one name generator for all companies, meaning th
     [*]Computer OS Company, Office Software Company, and Creative Tools Company (Audio tool, 2D Editor, and 3D Editor) Names
 [/olist]
 
-To reflect that most companies use subcontractors for some tasks, some of the companies names in the dedicated lists can also appear in the Contracts Company names list. This is in addition to the fact.
-
 Also, each game category is filled only with games that match the game type (e.g., StarCraft is always an RTS).
 
 [h1] Compromises and restrictions of the mod [/h1] 
