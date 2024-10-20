@@ -50,12 +50,12 @@ Moto
 One
 Pixel
 -end(stop)
-Fold
-Lite
-Note
-Plus
-Pro
-S
-SE
-Ultra
-X
+ Fold
+ Lite
+ Note
+ Plus
+ Pro
+ S
+ SE
+ Ultra
+ X

@@ -139,11 +139,11 @@ Yammer
 Zendesk
 Zoho Office
 -end(stop)
-365
-Business
-Cloud
-Community Edition
-Enterprise
-Family
-Plus
-Pro
+ 365
+ Business
+ Cloud
+ Community Edition
+ Enterprise
+ Family
+ Plus
+ Pro
