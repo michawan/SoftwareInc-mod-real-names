@@ -89,7 +89,6 @@ Photopea
 Photoscape
 Photoscape X
 Photoshop
-Photoshop Express
 PictBear
 Pictogon
 Pixelied

@@ -1,6 +1,6 @@
 [REPLACE]
 -start(base, base2)
--base(next, end, stop)
+-base(next, next2, end, stop)
 Acronis
 Avast
 AVG
@@ -25,7 +25,6 @@ Quick Heal
 Sophos 
 Surfshark
 Total
-TotalAV
 Trend Micro
 VIPRE
 Webroot
@@ -46,19 +45,19 @@ SecureSafe
 uBlock Origin
 Vaultwarden
 -next(end, stop)
-360
-Advanced
-Cloud
-Endpoint
-Smart
-Total
+ Cloud
+ Endpoint
+-next2(end)
+ 360
+ Advanced
+ Smart
+ Total
 -end(stop)
-Antivirus
-Defender
-Internet Security
-Platform
-Protection
-Scan
-Security
-Threat Detection
-Threat Protection
+ Antivirus
+ Defender
+ Internet Security
+ Protection
+ Scan
+ Security
+ Threat Detection
+ Threat Protection

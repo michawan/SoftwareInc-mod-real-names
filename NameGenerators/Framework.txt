@@ -31,7 +31,6 @@ Dojo
 Electron
 Ember.js
 Entity Framework
-Express
 Express.js
 Ext JS
 FastAPI
