@@ -1,5 +1,5 @@
 1. Placer le dossier complet "SoftwareInc-mod-real-names-for-everything" dans ```D:\SteamLibrary\steamapps\common\Software Inc\Mods```
-2. Enlever les 3 fichiers .md (SoftwareInc n'accepte pas les fichiers en .md au moment de charger le mod dans le Steam Workshop):
+2. Enlever les 3 fichiers ".md" et le dossier ".git". SoftwareInc bloque l'upload vers le Steam Workshop pour tout autre fichier que ".txt" ou ".tyd"
     - README.md
     - SteamWorkshopDescription.md
     - HowToUpdateMod.md
