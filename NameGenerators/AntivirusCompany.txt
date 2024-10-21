@@ -8,7 +8,6 @@ BAE Systems
 Barracuda Networks
 Bugcrowd
 Check Point Software Technologies
-Citrix Systems
 Cloudflare
 CyberArk
 CyberGhost
@@ -20,7 +19,6 @@ Fortinet
 Gemalto
 Gen Digital
 Hacker One
-Hornetsecurity
 Imperva
 Infoblox
 Intego
@@ -30,7 +28,6 @@ NordVPN
 Okta
 Palo Alto Networks
 PC Tools
-Qihoo 360
 Rapid7
 Sectigo
 SecureWare

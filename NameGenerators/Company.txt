@@ -20,6 +20,7 @@ Canonical
 Capgemini
 CGI
 Cisco
+Citrix Systems
 Compaq
 Computacenter
 Convex
@@ -49,6 +50,7 @@ Micro-Star International
 Microsoft
 MontaVista
 Mozilla Corporation
+NCH Software
 NetApp
 Novell
 Nutanix

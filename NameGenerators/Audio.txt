@@ -3,138 +3,58 @@
 -base(stop)
 Ableton Live
 ACID Pro
-AIMP
-Airtime
-AlsaPlayer
+Acoustica
 Amadeus Pro
 Amsynth
 Ardour
-Ardour
 Audacity
-Audio Desk
 Audio Evolution
 Audio Hijack
+AudioDesk
+AudioFrame
 Audiotool
 Audition
+BandLab
 Bitwig Studio
-Brasero
 Cakewalk
-Capella
-CrossDJ
-Csound
 Cubase
-DarkWave Studio
-Deckadance
 Digital Performer
-DJay Pro
-DSP-Quattro
-Easy MP3 Cutter
-Electrik Piano
-Encore
-FFmpeg
-Final Scratch
 FL Studio
-Foobar2000
-Forte
-fre:ac
 GarageBand
 GoldWave
-Guitar Pro
-Hydrogen
 Hyperscore
-iTunes
-iZotope RX
-Jamkazam
-JFugue
-Korg Gadget
-KXStudio
+KRISTAL Audio Engine
 Linux MultiMedia Studio
 Logic Pro
-Logic Remote
-MAGIX Music Maker
-Media Player
-MediaCoder
-MediaMonkey
-MellowPlayer
-MIDIbox
+Magix Music Maker
+MetaSynth
 Mixbus
 Mixcraft
-MixMeister
-MixPad
-Mixxx
-Mozart
 MuLab
 MultitrackStudio
-MusEdit
-MuseScore
-Music Mouse
-Music Write
-MusiCAD
-MusicEase
-Musink
+MusE
 n-Track Studio
-Native Instruments Komplete
-NCH WavePad
-Nero WaveEditor
-Ninjam
-Ocenaudio
-OpenBroadcaster
-OpenMPT
+Nuendo
 OpenMusic
-OrangeVocoder
-Orinj
-Orion Studio
-OtsAV
-Overture
-Piapro Studio
+Performer Lite
+Podium
 Power Sound Editor
-Pyramix
+Pro Tools
 Qtractor
-Radiodrum
-Radium
-Reaper
-Reason Studios
+REAPER
+Reason
 Renoise
-Resolume
-Rocksmith
 Rosegarden
-Rubato Composer
-Samplitude Pro
-Serato DJ Pro
-Sibelius
-Sonic Pi
-Sound eXchange
-Sound Forge Pro
+Samplitude
+SAWStudio
+Sound Forge
 Sound Studio
 Soundation
-SoundTracker
+Soundbooth
 Soundtrap
-Splice
-Spotify
-Steinberg Nuendo
 Studio One
-StudioRack
 SunVox
-SuperCollider
-Synthesia
-Tracktion T7
 Tracktion Waveform
-Traktor Pro
-Tunebite
-TuxGuitar
-UltraMixer
-UVI Workstation
-VirtualDJ
-VLC media player
-Vox Music Player
-Voxengo SPAN
 WaveLab
 WavePad Audio Editor
-WaveSurfer
 Wavosaur
-Winamp
-XMedia Recode
-XMPlay
-YoGen Recorder
-Z-Tracker
-ZynAddSubFX

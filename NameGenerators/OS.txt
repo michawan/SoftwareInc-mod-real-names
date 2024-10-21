@@ -9,12 +9,12 @@ BSD
 CentOS
 Chrome OS
 CP/M
-CP/M
 Debian
 Domain/OS
 DR-DOS
 DragonFly BSD
 eComStation
+ESXi
 Fedora
 FreeBSD
 FreeDOS
@@ -51,6 +51,7 @@ OS/400
 PC-DOS
 PicoBSD
 Pop!_OS
+Proxmox
 Raspbian
 ReactOS
 Red Hat Enterprise Linux
@@ -77,6 +78,7 @@ VM/CMS
 VMX
 Windows
 Windows Server
+XenServer
 Xubuntu
 z/OS
 Zenwalk GNU/Linux

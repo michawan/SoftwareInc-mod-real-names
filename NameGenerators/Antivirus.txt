@@ -9,24 +9,19 @@ Bitdefender
 BullGuard
 Clam
 Comodo
-CrowdSec
 CrowdStrike
 Dr.Web
 Eset
 F-secure
 FortiClient
-Harmony
 Kaspersky
 Malwarebytes
 McAfee
 Norton
 Panda
 Quick Heal
-Sophos 
 Surfshark
-Total
 Trend Micro
-VIPRE
 Webroot
 ZoneAlarm
 -base2(stop)
@@ -42,6 +37,7 @@ NordPass
 Password Safe
 Proton Pass
 SecureSafe
+TotalAV
 uBlock Origin
 Vaultwarden
 -next(end, stop)

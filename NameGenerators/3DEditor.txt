@@ -1,40 +1,26 @@
 [REPLACE]
 -start(base)
 -base(stop)
-3D Coat
 3D Slash
+3D Studio Max
+3DCoat
 3DCrafter
-Agisoft Metashape
-Alias Design
-Alias PowerShape
-Alias SpeedForm
-Alias Surface
+Alias StudioTools
 Anim8or
-Animatron
 Archicad
 Archipelis Designer
 Art of Illusion
 Artlantis
 AutoCAD
-Autodesk 3ds Max
-Autodesk FormIt
-Autodesk Fusion 360
-Autodesk Inventor
-Autodesk Maya
-Autodesk Mudbox
 Blender
-Blophome
 BRL-CAD
-Bryce
+Bryce3D
+CADKEY
 Carrara
 CATIA
-Cheese
+Chaos Corona
 Cheetah3D
-Chocolat
 Cinema 4D
-CinePaint
-Clara.io
-Corona Renderer
 Daz 3D
 DesignSpark Mechanical
 Dimension
@@ -42,87 +28,55 @@ Dust3D
 E-on Vue
 EmberGen
 FaceGen Modeller
-Fluid Designer
-FluidRay
 FreeCAD
-GeoMagic Design
-Geomagic Sculpt
-Geomagic Wrap
-Geomodeller3D
-Goxel
-Grasshopper 3D
-Hexagon
-HitFilm Pro
+Fusion 360
+Goxel 3D Voxel Editor
 Houdini
-Houdini Apprentice
+iClone
 Insight3D
 Instant Terra
+Inventor
 IRONCAD
-JSPaint
 K-3D
-KeyCreator
 KeyShot
 LightWave 3D
 Lumion
+Magic Poser
 MakeHuman
-MakePrintable
-MatterControl
+Maya
 MeshLab
 MeshMagic 3D
 Meshmixer
-Metasequoia
-Mudbox Free
-Netfabb
+Mudbox
 nTopology
 Onshape
-Onshape Free
-OpenCascade
 OpenSCAD
-pCon.planner
-Pixlr
-Plastic SCM
 Plasticity
 Polybrush
 Poser
-PowerAnimator
+PowerShape
 Pro/ENGINEER
 Quixel Mixer
 RealityCapture
-Reallusion iClone
 Realsoft 3D
-ReCap Pro
 Remo 3D
-RenderDoc
 RenderMan
-Rhinoceros
-Rocket 3F
+Rhino3D
 Rokoko Studio
 SculptGL
-Sculptris
-SelfCAD
-SelfCAD
-Silo 3D
-Simlab Composer
+Silo
 Sketchfab
 SketchUp
 Solid Edge
 SolidWorks
 Source Filmmaker
-Substance Designer
-Substance Painter
-Surfcam
+Substance 3D
 Sweet Home 3D
 Terragen
-Teya Conceptor
 TinkerCAD
-TopMod
 TrueSpace
 Twinmotion
 V-Ray
-Vectary
-ViaCAD
-Voxel Builder
-VoxelMax
 Wings 3D
 ZBrush
 Zmodeler
