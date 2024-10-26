@@ -2,17 +2,17 @@
 -start(base)
 -base(stop)
 .NET
-AdonisJS
-Aeron
 Angular
 AngularJS
 Anvil
-Apache MXNet
+Apache Click
+Apache Tapestry
+Apache Spark
 Apache Struts
 ASP.NET
 Aurelia
 Backbone.js
-Cairo
+Cairo Graphics
 CakePHP
 Capacitor
 Catalyst
@@ -27,7 +27,7 @@ Cypress
 Dart
 Decima Engine
 Django
-Dojo
+Dojo Toolkit
 Electron
 Ember.js
 Entity Framework
@@ -41,33 +41,24 @@ Foundation
 Fox Engine
 Frostbite
 FuelPHP
-Garden
-Gatsby
-Godot
-Grails
-Hapi.js
 Havok
-Hibernate
+Hibernate ORM
 Infer.NET
 Ionic
 JavaFX
-Javalin
-JHipster
+Jest
 jQuery
 jQuery Mobile
 KnockoutJS
 Koa.js
-Kohana
 Laravel
 Lift
 Lumen
 Luminous Engine
-Marionette.js
-Maya
+Memcached
 MeteorJS
 Mobile Angular UI
 Mojolicious
-Monorail
 NativeScript
 Netty
 Next.js
@@ -75,47 +66,32 @@ Node.js
 Nuxt.js
 OpenFrameworks
 OpenUI5
-Peewee
-Phalcon
 Phoenix
 PhysX
-Play
 Play Framework
-PureMVC
 Pyramid
 PyTorch
-Qt
-Quasar
-Qwik
-Rage
+Qt Framework
+Quasar Framework
+Rage Engine
 React
 React Native
-Reactor
+Redis
 Ruby on Rails
 RxJava
 RxJS
 Sequelize
-Sinatra
 SoundTracker
 Source Engine
-Spark
-Spring
-Stencil
+Spring Framework
 Stimulus
-Strapi
-Svelte
 Symfony
-Tapestry
-Tauri
 TensorFlow
 TurboGears
 Twig
 Unreal Engine
-Vaadin
 Vapor
 Vue.js
-Wicket
 Xamarin
-Yii
+Yii Framework
 Zend Framework
-Zikula

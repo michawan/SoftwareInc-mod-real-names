@@ -1,61 +1,55 @@
 [REPLACE]
 -start(base1, base2)
 -base1(stop)
+9100 Communicator
 Aquos Crystal
-Ascend
+Ascend P
 Black Shark
 Blade
-Centro
-Communicator
-Curve
-Defy
-Droid
-Idol
-KeyOne
+Desire
+DynaTAC
+E90 Communicator
+Fairphone
+Galaxy A
+Galaxy Note
+Galaxy S
+Honor
+Honor Lite
+Honor View
+iPhone
+iPhone Pro
+iPhone SE
+KEYone
 Lumia
 Magic
-N-Gage
+Moto E
+Moto Edge
+Moto G
 Newton
 Nexus
+OnePlus
 OneTouch
 Optimus G
-Passport
-Pearl
-PenPoint
+Pearl 8100
 Pilot 1000
-Pixi
-Poco
-PureView
-Razr
-Reno 10x Zoom
-ROG Phone
-ROKR
-Sensation
-StarTAC
-ThunderBolt
-Treo
-View
-Wildfire
-Wing
-Xperia
-XpressMusic
-Zenfone
--base2(end)
-Desire
-Galaxy
-iPhone
-Mate
-Mi
-Moto
-One
 Pixel
--end(stop)
- Fold
- Lite
- Note
- Plus
- Pro
- S
- SE
- Ultra
- X
+Pixel Pro
+Pixi
+Poco F
+Poco M
+Poco X
+Razr
+Realme
+Realme Pro
+Redmi
+Redmi A
+Redmi Note
+Reno
+ROG Phone
+ROKR E
+RORK Z
+SGH-E105
+StarTAC
+Wiko
+Xperia
+Zenfone
