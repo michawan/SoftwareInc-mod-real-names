@@ -5,28 +5,27 @@ A/UX
 AlmaLinux
 Alpine Linux
 Arch Linux
-BSD
 CentOS
 Chrome OS
 CP/M
 Debian
 Domain/OS
 DR-DOS
-DragonFly BSD
 eComStation
 ESXi
-Fedora
+Fedora Linux
 FreeBSD
 FreeDOS
-fSense
+pfSense
 Gentoo Linux
 HP-UX
+Hyper-V
 IRIX
 Kali Linux
 Linux From Scratch
 Linux Mint
-Linux Mint Debian Edition
 Lisa OS
+LMDE
 Lubuntu
 Mac OS X
 Mac OS X Server
@@ -34,8 +33,6 @@ macOS
 Mandriva Linux
 MiniOS
 Minix
-MkLinux
-MobiLinux
 MorphOS
 MS-DOS
 MSX-DOS
@@ -54,8 +51,8 @@ Pop!_OS
 Proxmox
 Raspbian
 ReactOS
-Red Hat Enterprise Linux
 Rhapsody
+RHEL
 RISC OS
 Rocky Linux
 SCO OpenServer
@@ -65,22 +62,14 @@ Solaris
 SteamOS
 SUSE Linux Enterprise
 SymbOS
-Tails
 TempleOS
 TinyOS
 TrueNAS
 TrueOS
 Ubuntu
-UNIX
-VAX/VMS
-VisiOn
-VM/CMS
-VMX
 Windows
 Windows Server
 XenServer
 Xubuntu
 z/OS
-Zenwalk GNU/Linux
-Zeta OS
 Zorin OS
