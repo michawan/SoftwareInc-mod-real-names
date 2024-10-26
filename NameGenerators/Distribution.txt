@@ -1,7 +1,7 @@
 [REPLACE]
 -start(base)
 -base(stop)
-App Galery
+AppGalery
 App Store
 AppSumo
 Aptoide
@@ -33,7 +33,6 @@ PCWorld Software Store
 Play Store
 RapidShare
 Red Hat Marketplace
-Setapp
 Shopify
 Snap Store
 Softonic

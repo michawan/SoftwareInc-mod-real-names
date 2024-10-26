@@ -62,6 +62,9 @@ Palantir
 Paypal
 Psion
 Qualcomm
+Rackspace
+Red Hat
+Sage
 Salesforce
 SAP
 Seagate Technology
