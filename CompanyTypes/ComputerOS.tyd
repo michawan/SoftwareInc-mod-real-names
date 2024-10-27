@@ -5,6 +5,7 @@ CompanyType
 	Min					2
 	Max					2
 	Frameworks			False
+	NameGen				OSCompany
 	Types
 		[
 			{
