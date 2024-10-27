@@ -1,6 +1,6 @@
 [REPLACE]
--start(base1, base2)
--base1(stop)
+-start(base)
+-base(stop)
 9100 Communicator
 Aquos Crystal
 Ascend P
