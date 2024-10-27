@@ -1,0 +1,54 @@
+-start(base)
+-base(stop)
+Acorn Computers Ltd.
+Amazon
+American Megatrends
+Apollo Computer Inc.
+Apple
+Bell Labs
+Blue Systems
+Burroughs Corporation
+Caldera Systems
+Canonical
+Cisco
+Citrix Systems
+Compaq
+Convex Computer
+Data General
+Dell Inc.
+Digital Equipment Corporation
+Digital Research, Inc.
+EMC Corporation
+Fujitsu
+Google
+Green Hills Software
+Hewlett Packard Enterprise
+Hewlett-Packard
+Honeywell International Inc.
+IBM
+Intel
+INTERACTIVE Systems Corporation
+Lenovo
+Linux Foundation
+Microsoft
+Microware
+MontaVista
+Netgate
+Netgear
+NeXT
+Novell
+Nutanix
+Oracle Corporation
+Qualcomm
+Rackable Systems
+Raspberry Pi Foundation
+Red Hat
+Silicon Labs
+SiliconGraphics
+Sun Microsystems
+System76
+Texas Instruments
+The Santa Cruz Operation, Inc.
+UNIVAC
+VMware
+Xerox
