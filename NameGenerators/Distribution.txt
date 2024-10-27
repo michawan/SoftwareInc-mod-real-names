@@ -15,17 +15,20 @@ eShop
 F-Droid
 FileHippo
 Galaxy Store
+Games for Windows – Live
+Gamesplanet
 Gamestop PC Downloads
 GCP Marketplace
 GitHub
 GitLab
 GNOME Software
-GOG
+GOG.com
 Gumroad
 Humble Bundle
 Itch.io
 MediaFire
 Megaupload
+Metaboli
 MS Store
 Newegg
 Origin
@@ -40,5 +43,7 @@ Software Center
 SourceForge
 Steam
 Synaptic
+ubuntu Software Center
 Uplay
 WeGame
+Xbox Games Store

@@ -26,7 +26,6 @@ Hyperscore
 KRISTAL Audio Engine
 Linux MultiMedia Studio
 Logic Pro
-Magix Music Maker
 MetaSynth
 Mixbus
 Mixcraft

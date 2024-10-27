@@ -13,7 +13,6 @@ HTC
 Huawei
 Infinix Mobile
 Kyocera
-Lenovo
 LG Electronics
 Medion
 Microsoft Mobile

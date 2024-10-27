@@ -1,7 +1,6 @@
 [REPLACE]
 -start(base)
 -base(stop)
-Acer
 Adobe
 ADP
 Alibaba
@@ -31,6 +30,7 @@ Electronic Data Systems
 EMC Corporation
 Facebook
 Fiserv
+Fujitsu
 Genesys
 Google
 Green Hills Software
@@ -43,6 +43,7 @@ Infosys
 Intel
 Intuit
 Juniper Networks
+Lenovo
 Lite-On
 Logitech
 Meta

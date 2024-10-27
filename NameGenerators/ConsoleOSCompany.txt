@@ -9,7 +9,6 @@ Coleco
 Commodore
 Fairchild
 Fisher-Price
-Fujitsu
 Game Park
 Magnavox
 Mattel

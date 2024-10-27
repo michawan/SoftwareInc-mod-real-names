@@ -5,6 +5,7 @@ A/UX
 AlmaLinux
 Alpine Linux
 Arch Linux
+BSD
 CentOS
 Chrome OS
 CP/M
@@ -12,6 +13,7 @@ Debian
 Domain/OS
 DR-DOS
 eComStation
+EndeavourOS
 ESXi
 Fedora Linux
 FreeBSD
@@ -31,6 +33,7 @@ Mac OS X
 Mac OS X Server
 macOS
 Mandriva Linux
+Manjaro
 MiniOS
 Minix
 MorphOS
@@ -38,7 +41,6 @@ MS-DOS
 MSX-DOS
 NetBSD
 NetWare
-NeXTSTEP
 Open Solaris
 OpenBSD
 OpenMediaVault
@@ -48,7 +50,7 @@ OS/400
 PC-DOS
 PicoBSD
 Pop!_OS
-Proxmox
+Proxmox VE
 Raspbian
 ReactOS
 Rhapsody
