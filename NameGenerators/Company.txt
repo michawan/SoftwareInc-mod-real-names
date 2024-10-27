@@ -1,90 +1,74 @@
 [REPLACE]
 -start(base)
 -base(stop)
+Abelton
+Accenture
+Acoustica
 Adobe
-ADP
-Alibaba
-Amazon
+Altair Engineering
 AMD
-American Megatrends
-Ansys
-AOL
-Apollo
-Apple
+Ansys, Inc.
+Apache Software Foundation
+Ashlar-Vellum
 Atlassian
 Atos
+Autodesk
+Bentley Systems
 Broadcom
 Canon
-Canonical
 Capgemini
-CGI
-Cisco
-Citrix Systems
-Compaq
 Computacenter
-Convex
+Computer Systems Odessa
+Corel Corporation
 Dassault Systèmes
-Dell Technologies
-DigitalOcean
+Daz 3D
+Deezer
+Electrocomponents plc
 Electronic Data Systems
-EMC Corporation
-Facebook
 Fiserv
-Fujitsu
-Genesys
-Google
-Green Hills Software
+Graphisoft
+Harrison Audio Consoles
 HashiCorp
-Hewlett Packard Enterprise
-Hewlett-Packard
 Hubspot
-IBM
 Infosys
-Intel
-Intuit
-Juniper Networks
-Lenovo
-Lite-On
+Infraware Inc.
+Kingsoft Office Software
 Logitech
+Macromedia
+MAGIX Software
+Maplesoft
+MathWorks
+Maxon Computer GmbH
 Meta
-Micro-Star International
-Microsoft
-MontaVista
+MobiSystems
 Mozilla Corporation
-NCH Software
-NetApp
-Novell
-Nutanix
-Olivetti
+MSI
+MuTools
+Native Instruments
+Netscape
 Opera
-Oracle
-OVH
-Palantir
-Paypal
-Psion
-Qualcomm
-Rackspace
-Red Hat
+Pixologic
+PreSonus
+PTC Inc.
+RML Labs
 Sage
 Salesforce
 SAP
-Seagate Technology
+Serif Europe
 ServiceNow
-Silicon Graphics International
+Siemens Digital Industries Software
+SoftMaker GmbH
 SolarWinds
+Sony Music
 Sopra Steria
-SS&C Technologies
-Sun Microsystems
-Synopsys
+Spotify
+Steinberg
 Tata Consultancy Services
 Tech Mahindra
 Tencent
-Texas Instruments
-Uber
-Unisys
-Verizon
+Tracktion Software Company
+Universal Audio
+VideoLAN
 Vivendi
-VMware
-Western Digital
-Xerox
-Yahoo
+Yahoo!
+ZSoft Corporation
