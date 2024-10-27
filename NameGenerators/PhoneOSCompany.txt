@@ -26,7 +26,7 @@ QMobile
 SAGEM
 Samsung
 Sharp
-Siemens
+Siemens Mobile
 Sony Ericsson
 Symphony Mobile
 T-Mobile

@@ -8,7 +8,6 @@ Anvil
 Apache Click
 Apache Tapestry
 Apache Spark
-Apache Struts
 ASP.NET
 Aurelia
 Backbone.js

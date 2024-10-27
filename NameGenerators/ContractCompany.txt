@@ -7,11 +7,14 @@ Adidas
 Air France
 Aldi
 Alfa Romeo
+Alibaba
 Allianz SE
 American Airlines
 American Express
+AOL
 ArcelorMittal
 AstraZeneca
+AT&T
 Avis
 AXA
 BASF
@@ -51,6 +54,7 @@ Deloitte
 Deutsche Bank
 Devon Energy
 DHL Group
+DigitalOcean
 Domino's Pizza
 DoorDash
 E.Leclerc
@@ -60,6 +64,7 @@ Eiffage
 Electricité de France
 Engie
 Exxon Mobil
+Facebook
 Ferrari
 Ferrero
 Fiat
@@ -83,6 +88,7 @@ HSBC Holdings
 Hugo Boss
 Hyundai Motor
 IKEA
+Instagram
 Intermarché
 John Deere
 Johnson & Johnson
@@ -96,6 +102,8 @@ Kraft Heinz
 L'Oréal
 La Poste
 Lamborghini
+LinkedIn
+Lite-On
 Lockheed Martin
 Lowe's
 Lufthansa
@@ -119,8 +127,10 @@ Nissan
 Oaktree Capital Management
 Office Depot
 Orange
+OVH
 Pacific Construction Group
 Paramount Pictures
+Paypal
 PepsiCo
 Pernod Ricard
 Petronas
@@ -134,8 +144,10 @@ PricewaterhouseCoopers
 Prologis
 Puma
 Pyrelli
+Rackspace Technology
 Ralph Lauren
 Red Bull
+Reddit
 Reebok
 Renault
 Saber Interactive
@@ -144,6 +156,7 @@ Sanofi
 Saudi Aramco
 Schlumberger
 Schneider Electric
+Seagate Technology
 Sempra Energy
 Shell
 SNCF Group
@@ -153,23 +166,29 @@ Starbucks
 Starwood Hotels & Resorts
 Stellantis
 Subway
+Synology Inc.
 Taco Bell
 Target
+Telegram
 Tesla
 Thales Group
 The Guardian
 The Lego Group
 The Walt Disney Company
+TikTok
 Tokyo Electric Power
 TotalEnergies
 Toyota Motor Corporation
+Twitter
 Tyson Foods
+Uber
 Uber Eats
 Unilever
 Uniqlo
 United Airlines
 UPS
 Veolia Environnement S.A.
+Verizon
 Vinci
 Virgin Group
 Visa
@@ -178,6 +197,7 @@ Walmart
 Warner Bros. Entertainment
 Watson Pharmaceuticals
 Wells Fargo
+Western Digital
 Whirlpool
 Yamaha
 Zara

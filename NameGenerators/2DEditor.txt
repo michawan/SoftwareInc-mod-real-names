@@ -43,6 +43,7 @@ LunaPic
 MediBang Paint
 MS Paint
 MyPaint
+OmniGraffle
 Paint Tool SAI
 Paint.NET
 PaintShop Pro
@@ -63,3 +64,4 @@ Sketchbook
 Sketchpad
 Sumo Paint
 Toonz
+Visio
