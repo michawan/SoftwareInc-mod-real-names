@@ -19,14 +19,15 @@ This mod aims to replace the names of the following categories with real name eq
 
 [h1] Considerations with companies names [/h1]
 
-In the base game, there is only one name generator for all companies, meaning the same pool of names is used for every type of companies. To represent real companies and mimic their real-life activities as best as possible (e.g., Nintendo should always create consoles), I created five company lists:
+In the base game, there is only one name generator for all companies, meaning the same pool of names is used for every type of companies. To represent real companies and mimic their real-life activities as best as possible (e.g., Nintendo should always create consoles), I created six company names lists:
 
 [olist]
     [*]Phone OS Company Names
     [*]Console OS Company Names
     [*]Game Company Names
     [*]Antivirus Company Names
-    [*]Computer OS Company, Office Software Company, and Creative Tools Company (Audio tool, 2D Editor, and 3D Editor) Names
+    [*]Computer OS Company
+    [*]Office Software Company, and Creative Tools Company (Audio tool, 2D Editor, and 3D Editor) Names
 [/olist]
 
 Also, each game category is filled only with games that match the game type (e.g., StarCraft is always an RTS).
@@ -47,13 +48,16 @@ Due to the original design of the base game's randomness, the following compromi
     [*]Some major companies use subsidiaries for different markets, so in certain instances, I treated them as separate entities (e.g., Microsoft and Microsoft Mobile are two distinct companies in this mod).
 [/list]
 [list]
-    [*]The Computer OS Company, Office Software Company, and Creative Tools Company are still merged because separating them into three lists would lead to excessive overlap (e.g., Microsoft could fit into either Office Software or Computer OS Company) and insufficient names for each category.
+    [*]The Office Software Company, and Creative Tools Company are still merged because separating them into separate lists would lead to insufficient names for each category. This means that Spotify might create Office Softwares in your playhtrough. If I find a more elegant solution I will update the mod.
+[/list]
+[list]
+    [*]I added some companies that aren't explicitly renowned for Office Software or Creative Tools but are too significant in tech and software development to not be included somewhere in the names lists. Welcome to a nightmarish multiverse where SAP could lead the development of audio tools.
 [/list]
 [list]
     [*]I did not alter the number of company generators or the number of software titles developed per company from the base game. As a result, the game does not use all the names in the lists for every playthrough; it will only select names when creating a software title or a company.
 [/list]
 [list]
-    [*]To reduce my cognitive dissonance, some products that include the name of their parent company have been modified (e.g., "Adobe Photoshop" is simply "Photoshop" as it would be weird to have Microsoft create "Adobe Photoshop" when a company named "Adobe" already exists in the same playthrough).
+    [*]To reduce my cognitive dissonance, some products that include the name of their parent company have been modified (e.g., "Adobe Photoshop" is simply "Photoshop", as it would be weird to have Microsoft create "Adobe Photoshop" when a company named "Adobe" already exists in the same playthrough).
 [/list]
 [list]
     [*]Additionally, when a product shares its name with its parent company (looking at you, antivirus companies), I want to avoid having products of that namesake company created by another entity. To achieve this, I removed certain company names from some lists (e.g., Norton as an antivirus exists but is not listed as a company).
