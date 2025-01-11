@@ -42,7 +42,7 @@ Due to the original design of the base game's randomness, the following compromi
     [*]Linking a company to a specific logo is not possible, or if it is, it exceeds my current understanding.
 [/list]
 [list]
-    [*]To avoid using the same company name for two different entities (e.g., a company name as an OS developper and the same company name as an Office Software company), I had to make some concessions by including the company name in only one list, usually the one they are most famous for.
+    [*]To avoid using the same company name for two different entities (e.g., a company name as an OS developer and the same company name as an Office Software company), I had to make some concessions by including the company name in only one list, usually the one they are most famous for.
 [/list]
 [list]
     [*]Some major companies use subsidiaries for different markets, so in certain instances, I treated them as separate entities (e.g., Microsoft and Microsoft Mobile are two distinct companies in this mod).
